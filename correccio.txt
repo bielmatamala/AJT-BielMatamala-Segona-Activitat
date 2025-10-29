@@ -1,0 +1,15 @@
+Exercici 1. 2/2
+  
+Exercici 2. 1.5/2
+  No has calculat les diferències entre els noms.
+
+Exercici 3. 1.75/2
+La nota mitjana havia de ser 7.5, no 8.5
+
+Exercici 4. 2/2
+
+Jupyter: 1/1
+
+Github: 1/1
+
+Nota final: 9.25/10
